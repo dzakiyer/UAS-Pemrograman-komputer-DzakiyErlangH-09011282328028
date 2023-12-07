@@ -1,18 +1,23 @@
-## Getting Started
+**UAS-Pemrograman-Komputer-DzakiyErlangH-09011282328028
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Biodata Diri
 
-## Folder Structure
+Nama: Dzakiy Erlang Hersiando
+Tempat, Tanggal Lahir: Banjarmasin, 25 Agustus
+Alamat: Jl. Lingkar Istana
+Hobi: Mendengarkan Musik
 
-The workspace contains two folders by default, where:
+# Ujian Pemrograman Komputer
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Saya saat ini sedang mempersiapkan diri untuk ujian pemrograman komputer. Ujian ini bertujuan untuk memenuhi tugas UAS dari dosen pemrograman komputer. Materi yang akan diujikan meliputi:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Menghitung total harga yang harus dibayar oleh pelanggan dengan diskon berdasarkan jumlah pembelian.
+2. Melakukan autentikasi pengguna berdasarkan username dan password.
+3. Menampilkan deret Fibonacci hingga suku ke-n.
+4. Memfaktorisasi suatu bilangan bulat positif menjadi faktor-faktornya.
+5. Membuat kalkulator sederhana yang dapat melakukan operasi penjumlahan, pengurangan, perkalian, dan pembagian.
+6. Mengecek apakah suatu kata atau frase adalah palindrom atau tidak.
+7. Mengelola buku-buku dalam suatu perpustakaan.
+8. Mengelola akun pengguna.
+9. Memeriksa urutan kurung buka dan kurung tutup pada suatu ekspresi matematika.
+10. Membuat repositori baru di GitHub dengan nama "UAS-Pemrograman komputer-Nama-NIM" dan inisialisasi repositori tersebut di komputer lokal.
